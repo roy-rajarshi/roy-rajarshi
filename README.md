@@ -1,6 +1,6 @@
 Hi there 👋, I'm Rajarshi.
 
-- 🌱 I’m currently learning Java & DSA
+- 🌱 I’m currently learning Java, DSA & Open Source Contributions
 - 🤔 I’m looking for help with Open Source
 - 📫 How to reach me: [Instagram](https://www.instagram.com/_roystark_/)
 - 😄 Pronouns: He/Him
