@@ -1,6 +1,6 @@
 Hi there 👋, I'm Rajarshi.
 
-- 🌱 I’m currently learning Java, DSA & Open Source Contributions
+- 🌱 I’m currently learning DSA & Open Source Contributions
 - 🙇‍♂️ Pursuing CSE at SIT & Data Science at IITMadras
 - 🤔 I’m looking for help with Open Source
 - 📫 How to reach me: [Instagram](https://www.instagram.com/_roystark_/)
