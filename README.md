@@ -3,7 +3,7 @@ Hi there 👋, I'm Rajarshi.
 - 🌱 I’m currently learning DSA & Open Source Contributions
 - 🙇‍♂️ Pursuing CSE at SIT & Data Science at IITMadras
 - 🤔 I’m looking for help with Open Source
-- 📫 How to reach me: [Instagram](https://www.instagram.com/_roystark_/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rajarshi-roy-ceo/)
 - 😄 Pronouns: He/Him
 
 
